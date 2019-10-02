@@ -1047,6 +1047,15 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0411008/"
     },
     {
+	    title: "Titanic",
+	    emojiImgs: "⛴👫👧",
+	    genres: ["drama", "tragedy"],
+	    type: "movie",
+	    year: 1997,
+	    itemLink: "https://www.imdb.com/title/tt0120338/"
+    },
+	
+    {
         title: "Love and Other Drugs",
         emojiImgs: "😍🆘💊💔💏",
         genres: ["romance", "drama", "comedy"],
@@ -1805,5 +1814,21 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
+    },
+    {
+	    title: "Rockstar",
+	    emojiImgs: "🤘⭐",
+	    genres: ["drama", "music", "musical"],
+	    type: "movie",
+	    year: 2011,
+	    itemLink: "https://www.imdb.com/title/tt1839596/"
+    },
+    {
+	    title: "7 khoon maaf",
+	    emojiImgs: "7⃣🔪🙏",
+	    genres: ["drama", "mystery", "thriller"],
+	    type: "movie",
+	    year: 2011,
+	    itemLink: "https://www.imdb.com/title/tt1629376/"
     }
 ]
